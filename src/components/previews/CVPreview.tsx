@@ -300,7 +300,7 @@ const CVPreview: React.FC<CVPreviewProps> = ({ userData }) => {
       
       {/* CV Footer - Only visible in print */}
       <footer className="px-8 py-4 text-center text-gray-500 text-xs border-t border-gray-200 print:block hidden">
-        <p>This CV was generated using Portfolio Pro. Last updated: {new Date().toLocaleDateString()}</p>
+        <p>This CV was generated using PortfolioX. Last updated: {new Date().toLocaleDateString()}</p>
       </footer>
     </div>
   );

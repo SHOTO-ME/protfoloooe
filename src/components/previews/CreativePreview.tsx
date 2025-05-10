@@ -482,7 +482,7 @@ const CreativePreview: React.FC<CreativePreviewProps> = ({ userData }) => {
       {/* Footer */}
       <footer className="py-8 px-6 bg-black text-center text-gray-400 text-sm">
         <p>© {new Date().getFullYear()} {personal.name || 'Your Name'}. All rights reserved.</p>
-        <p className="mt-2">Created with Portfolio Pro</p>
+        <p className="mt-2">Created with PortfolioX</p>
       </footer>
     </div>
   );

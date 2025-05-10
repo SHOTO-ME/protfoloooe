@@ -23,7 +23,7 @@ const Sidebar: React.FC<SidebarProps> = ({
       <div className="p-6">
         <div className="flex items-center space-x-2">
           <Settings className="h-6 w-6 text-blue-600" />
-          <h2 className="text-xl font-bold text-gray-800">Portfolio Pro</h2>
+          <h2 className="text-xl font-bold text-gray-800">PortfolioX</h2>
         </div>
       </div>
       

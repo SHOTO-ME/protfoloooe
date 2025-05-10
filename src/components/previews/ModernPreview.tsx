@@ -355,7 +355,7 @@ const ModernPreview: React.FC<ModernPreviewProps> = ({ userData }) => {
       {/* Footer */}
       <footer className="bg-gray-50 border-t border-gray-200 py-8 px-6 text-center text-gray-500 text-sm">
         <p>© {new Date().getFullYear()} {personal.name || 'Your Name'}. All rights reserved.</p>
-        <p className="mt-2">Made with Portfolio Pro</p>
+        <p className="mt-2">Made with PortfolioX</p>
       </footer>
     </div>
   );
